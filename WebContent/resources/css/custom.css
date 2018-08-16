@@ -1,0 +1,27 @@
+/** Your theme modifications here **/
+
+.flip {
+	align-content: center;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-bottom:100px;
+	word-wrap: break-word;
+	background-image: url('../img/kp.jpg');
+}
+
+.registrationFailure {
+	align-content: center;
+	color: red;
+}
+
+.captcha {
+ color: red;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #555555;
+  background-color: #0000ff;
+}
+
